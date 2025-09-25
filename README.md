@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiruy72&label=Profile%20views&color=0e75b6&style=flat" alt="hiruy72" /> </p>
 
-- 📫 How to reach me hiruyadane@gmail.com
+- 📫 How to reach me hiruylegesse93@gmail.com
 
 
 
