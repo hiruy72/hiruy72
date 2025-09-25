@@ -1,4 +1,4 @@
-![logo](https://github.com/hiruy72/hiruy72/blob/main/profile%20banner.png)
+
 <h1 align="center">Hi 👋, I'm Hiruy Legesse Adane</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
