@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student at **Addis Ababa University** (GPA: 3.97)  
+- 🎓 Software Engineering student at **Addis Ababa University** 
 - 👀 Passionate about **web development, AI, and problem-solving**  
 - 💡 Experienced in **Java, Python, JavaScript, React, Node.js, and MySQL**  
 - 💞️ Open to collaborating on **open-source projects and impactful solutions**  
