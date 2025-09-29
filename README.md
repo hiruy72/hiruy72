@@ -78,9 +78,8 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hiruy72&theme=blueberry&hide_border=false&hide_private=true&timestamp=1695892800" alt="GitHub Streak" />
-</p>
+<img src="https://nirzak-streak-stats.vercel.app/?user=hiruy72&theme=blueberry&hide_border=false&hide_private=true&timestamp=1695892800" alt="GitHub Streak" />
+
 
 
 
