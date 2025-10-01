@@ -15,23 +15,6 @@
 - 📫 Reach me at **[hiruylegesse93@gmail.com](mailto:hiruylegesse93@gmail.com)**  
 
 ---
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/hiruy-legesse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
-  </a>
-  <a href="https://leetcode.com/hiruy1997" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
-  </a>
-  <a href="mailto:hiruylegesse93@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
-  </a>
-</p>
-
-
----
-
 ### 💻 Languages & Tools
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
@@ -55,6 +38,9 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
   </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
   </a>
@@ -74,6 +60,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.3)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
   </a>
 </p>
+
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/hiruy-legesse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+  <a href="https://leetcode.com/hiruy1997" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+  <a href="mailto:hiruylegesse93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.1)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>
+</p>
+
+
+---
+
+
 
 ---
 
