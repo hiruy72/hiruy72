@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **Addis Ababa University**  
 - 👀 Passionate about **Web Development, UI/UX DESIGN, AI, and Problem Solving** 
-- 💡 Experienced in **Java, Python, JavaScript, React, Nextjs Node.js, PostgreSQL, MySQL**  
+- 💡 Experienced in **Java, Python, JavaScript, React, Next.js, Node.js, PostgreSQL, MySQL**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
 - 📫 Reach me at **[hiruyadane@gmail.com](mailto:hiruyadane@gmail.com)**  
 
