@@ -6,7 +6,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student at **Addis Ababa University**  
+- 🎓 Software Engineering student at **Addis Ababa University** 
 - 👀 Passionate about **Web Development, UI/UX DESIGN, AI, Quantum Computing, and Problem Solving**
 - 💡 Experienced in **Java, Python, C++, JavaScript, React, Next.js, Node.js, Nest.js, PostgreSQL, SQL**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
