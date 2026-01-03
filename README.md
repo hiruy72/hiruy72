@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **Addis Ababa University** 
-- 👀 Passionate about **Web Development, UI/UX DESIGN, AI and Problem Solving**
+- 👀 Passionate about **Web Development, UI/UX DESIGN, Software Development, AI and Problem Solving**
 - 💡 Experienced in **Java, Python, C++, JavaScript, React, Next.js, Node.js, Nest.js, Express, PostgreSQL, SQL, TypeOrm, Prsma**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
 - 📫 Reach me at **[hiruyadane@gmail.com](mailto:hiruyadane@gmail.com)**
