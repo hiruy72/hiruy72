@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiruy Legesse </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;UI/UX+DESIGNER;Frontend+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;UI/UX+DESIGNER;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
