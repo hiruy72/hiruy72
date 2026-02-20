@@ -83,12 +83,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiruy72&show_icons=true&theme=blueberry&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruy72&theme=blueberry" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hiruy72&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  
+  <img src="https://streak-stats.demolab.com?user=hiruy72&theme=blueberry&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruy72&layout=compact&theme=blueberry&cache_seconds=7200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruy72&layout=compact&theme=blueberry&cache_seconds=1800" />
 </p>
 
 
