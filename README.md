@@ -10,7 +10,6 @@
 - 👀 Passionate about **Web Development, Mobile App Development ,UI/UX DESIGN, Software Development, AI and Problem Solving**
 - 💡 Experienced in **Java, Python, C++, JavaScript, React, Next.js, Node.js, Nest.js, Express, PostgreSQL, SQL, TypeOrm, Prisma, React Native**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
-- 📫 Reach me at **[hiruyadane@gmail.com](mailto:hiruyadane@gmail.com)**
 - 🌐 Portfolio: [**hiruy-legesse-portfolio.vercel.app**](https://hiruy-legesse-portfolio.vercel.app/)
 
 ---
