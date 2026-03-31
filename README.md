@@ -11,7 +11,7 @@
 - 💡 Experienced in **Java, Python, C++, JavaScript, Django, React, Next.js, Node.js, Nest.js, Express, PostgreSQL, SQL, TypeOrm, Prisma, React Native, kotlin**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
 - 🌐 Portfolio: [**hiruy-legesse-portfolio.vercel.app**](https://hiruy-legesse-portfolio.vercel.app/)
--   Email: hiruyadane@gmail.com
+-    Email: hiruyadane@gmail.com
 
 ---
 
