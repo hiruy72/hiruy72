@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student at **Addis Ababa University** 
 - 👀 Passionate about **Web Development, Mobile App Development ,UI/UX DESIGN, Software Development, AI and Problem Solving**
-- 💡 Experienced in **Java, Python, C++, JavaScript, Django, React, Next.js, Nest.js, Express, PostgreSQL, SQL, Prisma, React Native, kotlin**  
+- 💡 Experienced in **Java, Python, C++, JavaScript, Django, React, Next.js, Nest.js, Express, PostgreSQL, SQL, Prisma, React Native, kotlin, Flutter**  
 - 💞️ Open to collaborating on **Open Source Projects and Impactful Solutions**  
 - 🌐 Portfolio: [**hiruy-legesse-portfolio.vercel.app**](https://hiruy-legesse-portfolio.vercel.app/)
 -    Email: hiruyadane@gmail.com
